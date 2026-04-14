@@ -1,6 +1,6 @@
 
 compiler:
-  parallelCompilation: true
+  parallelCompilation: false
 
 versionControl:
   git:
